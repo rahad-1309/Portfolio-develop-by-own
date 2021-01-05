@@ -1,0 +1,122 @@
+.navbar {
+    background-color: rgb(22, 252, 252);
+    overflow: hidden;
+}
+
+.navbar p {
+    float: right;
+    color: black;
+    text-align: center;
+    padding: 12px 44px;
+    text-decoration: none;
+    font-size: 19px;
+
+
+}
+
+.navbar #meet {
+    float: left;
+    color: black;
+    padding: 12px 55px;
+    font-family: 'Redressed', cursive;
+    font-weight: 600;
+
+}
+
+.navbar p:hover {
+    background-image: linear-gradient(lightsalmon, tomato);
+    color: rgb(5, 0, 0);
+    border-radius: 17px;
+}
+h1{
+    font-family: 'Redressed', cursive;
+    font-size: 40px;
+}
+p{
+    font-family: 'Redressed', cursive;
+    font-size: 30px;
+}
+.left{
+    float: left;
+}
+
+span{
+    color: orange;
+}
+.font-size{
+    font-size: 25px;
+}
+.button{
+    padding: 10px 20px;
+    border-radius: 7px;
+    background-image: linear-gradient(lightsalmon, tomato);
+ 
+}
+#afont{
+    text-decoration: none;
+    color: white;
+    font-family: 'Redressed', cursive;
+    font-family: 'Roboto Slab', serif;
+    font-size: 15px;
+}
+
+
+.half-width{
+    float: left;
+    width: 40%;
+    margin-left: 5%;
+    padding-right: 10px;
+    
+}
+.half-width img{
+    width: 70%;
+    margin: 5%;
+}
+ .top-banner{
+    background-image: url("top-banner.png");
+    background-repeat:no-repeat;
+    
+}
+section{
+    height: 500px;
+}
+#second-image{
+     
+       width: 85%;
+       margin-bottom: 2%;
+       
+}
+.second-section{
+    background-image: url("dream-bg.png");
+    background-repeat: no-repeat;
+    background-position: right;
+}
+.div-shadow{
+    box-shadow: 10px 15px 15px  gray;
+    border-radius: 15px;
+    padding: 20px;
+    height: 60%;
+
+}
+    
+   .lorem{
+       background-image: url("exp-bg.png");
+       background-repeat: no-repeat;
+
+   } 
+
+#div-one{
+    border-left: 7px solid orange;
+    background-color: white;
+    
+    
+}
+#div-two{
+    border-left: 7px solid rgb(44, 241, 255)
+}
+.footer{
+    text-align: center;
+}
+body{
+    margin: 0px;
+}
